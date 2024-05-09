@@ -7,11 +7,11 @@ How to Use
 install poetry and run
 
     poetry install
-    poetry run python cralwer.py
+    poetry run python crawler.py
 
 Configuration
 ---
-Change this in `cralwer.py`
+Change this in `crawler.py`
 
     ##### Edit below
 
