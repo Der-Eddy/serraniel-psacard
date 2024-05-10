@@ -2,6 +2,9 @@ Made for serraniel
 
 Uses [poetry](https://python-poetry.org/docs/) for python environment
 
+[Screencast_20240510_015841.webm](https://github.com/Der-Eddy/serraniel-psacard/assets/1234101/94e4938b-a281-4f1e-9e59-752774fa06e7)
+
+
 How to Use
 ---
 install poetry and run
